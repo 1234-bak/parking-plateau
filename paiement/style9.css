@@ -1,0 +1,48 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+h1
+{
+    margin: 20px;
+    font-size: 50px;
+    text-align: center;
+}
+.container
+{
+    height: 100%;
+    width: 100%;
+}
+.petit_container
+{
+    height: 100%;
+    width: 100%;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.class1,
+.class2,
+.class3
+{
+    margin-top: 30px;
+    background-color: white;
+    width: 800px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
+h2
+{
+    background-color: white;
+    margin-top: 35px;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,29 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    background-color: #F9F8F8;
+}
+h1
+{
+    margin: 20px;
+    font-size: 50px;
+    text-align: center;
+    color: #0d00ff;
+}
+.formulaire
+{
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+p
+{
+    font-size: 40px;
+    margin-top: 10px;
+    color: #0d00ff;
+}
